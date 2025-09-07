@@ -7,8 +7,6 @@
 🤖 Keenly exploring the world of **AI & ML** 
 
 
----
-
 ## 🛠️ Tech background
 -  🖥️ C • C++ • Python (beginner)  
 -  🤖 AI/ML basics: Python + beginner ML models
