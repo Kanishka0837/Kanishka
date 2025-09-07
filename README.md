@@ -7,7 +7,7 @@
 
 
 ## 🛠️ Tech background
--  🖥️ C • C++ • Python (beginner)  
+-  🖥️ C • C++ • Python (beginner) • html • css
 -  🤖 AI/ML basics: Python + beginner ML models
 -  📚 Learning microprocessors + IoT vibes  
 -  🎨 Playing with web dev + random creative experiments
