@@ -13,4 +13,4 @@
 -  🖥️ C • C++ • Python (beginner)  
 -  🤖 AI/ML basics: Python + beginner ML models
 -  📚 Learning microprocessors + IoT vibes  
--  🎨 Playing with web dev + random creative experimen
+-  🎨 Playing with web dev + random creative experiments
